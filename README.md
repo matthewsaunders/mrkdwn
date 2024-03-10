@@ -2,6 +2,8 @@
 
 A subset of a markdown-to-HTML converter. The gem name doesn't have any vowels, so you know it must be good!
 
+To learn more about how mrkdwn works, read the [overview](docs/overview).
+
 ## Build and running in local irb
 
 Follow these instructions to build and install the mrkdwn gem locally. Once installed, you can load it in a local irb session and call Mrkdwn#html to parse a markdown document string into an HTML fragment string.
